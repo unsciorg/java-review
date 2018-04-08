@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>part1-javabase</module>
+        <module>leet-code</module>
     </modules>
 
     <properties>

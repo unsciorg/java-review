@@ -14,5 +14,7 @@ public class AutoBoxing {
         Double d = 10.1;
 
         System.out.println(c == d);
+
+
     }
 }
