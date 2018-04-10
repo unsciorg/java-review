@@ -21,3 +21,9 @@ Output: 0
 - `S` and `J` will consist of letters and have length at most 50.
 - The characters in `J` are distinct.
 
+
+
+
+### 翻译
+
+在字符串J中有一串字符，S中也有一串字符，请统计S包含在J中的字符数量，重复的也算。

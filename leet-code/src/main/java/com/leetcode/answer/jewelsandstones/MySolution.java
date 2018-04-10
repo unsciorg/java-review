@@ -19,4 +19,8 @@ public class MySolution {
     }
 
 
+    public void testSolution(){
+        System.out.println(new MySolution().numJewelsInStones("aA","aAAbbbb"));
+    }
+
 }
