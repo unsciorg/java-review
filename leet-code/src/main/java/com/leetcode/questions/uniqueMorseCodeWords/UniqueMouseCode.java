@@ -33,6 +33,8 @@ public class UniqueMouseCode {
                 }
                 tmp.add(sb.toString());
             }
+
+
             return tmp.size();
         }
 
